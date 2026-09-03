@@ -1,1 +1,2 @@
 # Proba gida
+- [Egunerokoa](egunerokoa/)
