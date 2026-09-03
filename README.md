@@ -1,2 +1,2 @@
 # Proba gida
-- [Egunerokoa](egunerokoa/README.md)
+- [Egunerokoa](egunerokoa/)
