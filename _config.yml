@@ -1,5 +1,5 @@
 title: Test azkarra
-theme: slate
+theme: just-the-docs
 header_pages:
  - index.md
  - gallery.md
