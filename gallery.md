@@ -1,1 +1,5 @@
-404
+---
+layout: page
+title: Argazkiak
+---
+# 404
