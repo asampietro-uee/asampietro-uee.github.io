@@ -2,7 +2,6 @@
 layout: page
 title: Digitalizazioa
 ---
-# Digitalizazioa
 
 Erronka honetan ez da nahikoa izango azken emaitza lortzea. Proiektua **modu antolatuan planifikatu, garatu eta dokumentatu** beharko duzue.
 
