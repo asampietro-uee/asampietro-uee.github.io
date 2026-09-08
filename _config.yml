@@ -1,5 +1,5 @@
 title: Test azkarra
-theme: just-the-docs
+theme: minima
 header_pages:
  - index.md
  - gallery.md
