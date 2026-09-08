@@ -1,0 +1,6 @@
+title: Test azkarra
+theme: slate
+header_pages:
+ - index.md
+ - gallery.md
+ - digitalizazioa.md
