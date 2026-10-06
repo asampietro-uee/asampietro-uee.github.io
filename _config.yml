@@ -1,5 +1,5 @@
 title: Test azkarra
-theme: jekyll-theme-chirpy
+theme: cayman
 header_pages:
  - index.md
  - gallery.md
