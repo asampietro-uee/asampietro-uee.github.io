@@ -1,6 +1,7 @@
 title: Test azkarra
-theme: minima
+theme: jekyll-theme-chirpy
 header_pages:
  - index.md
  - gallery.md
  - digitalizazioa.md
+ - noseke.md
