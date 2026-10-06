@@ -1,10 +1,10 @@
 title: Test azkarra
 lang: eu
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: just-the-docs/just-the-docs@v0.10.1
 plugins:
  - jekyll-remote-theme
-header_pages:
- - index.md
- - gallery.md
- - digitalizazioa.md
- - noseke.md
+ - jekyll-seo-tag
+ - jekyll-include-cache
+search_enabled: true
+exclude:
+ - README.md

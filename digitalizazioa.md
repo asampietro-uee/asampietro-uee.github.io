@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Digitalizazioa
+nav_order: 3
 ---
 
 Erronka honetan ez da nahikoa izango azken emaitza lortzea. Proiektua **modu antolatuan planifikatu, garatu eta dokumentatu** beharko duzue.

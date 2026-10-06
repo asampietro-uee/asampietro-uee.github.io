@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sarrera
+nav_order: 1
 ---
 
 # 1. Erronka — Bulego berria martxan jartzen
